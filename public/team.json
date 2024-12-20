@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Ravindra Reddy",
+      "role": "Robotics Lead & AI Enthusiast",
+      "image": "assets/reddy.png",
+      "linkedin": "#",
+      "github": "#",
+      "instagram": "#"
+    },
+    {
+      "name": "John Doe",
+      "role": "Mechanical Lead",
+      "image": "assets/john.png",
+      "linkedin": "#",
+      "github": "#",
+      "instagram": "#"
+    },
+    {
+      "name": "Jane Smith",
+      "role": "Software Developer",
+      "image": "assets/jane.png",
+      "linkedin": "#",
+      "github": "#",
+      "instagram": "#"
+    }
+  ]
+  
